@@ -1,0 +1,60 @@
+.container-segondary {
+    margin-left: 25rem;
+}
+/** les 3 section d'images et de text **/
+.column-get, .column-image {
+    padding: 2rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+.column-image, .column-yougo {
+    display: inline-block;
+    vertical-align: middle;   
+}
+
+.column-image, .column-hiking {
+    padding: 2rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.column-yougo {
+    
+    font-size: 18px;
+}
+
+.column-get div, .column-hiking div, .column-yougo div {
+    color: #FBD784;
+}
+
+p {
+    font-size: 18px;
+}
+
+.asset {
+    width: 80%;
+    height: auto;
+}
+
+/** footer **/
+
+.column-blog, .column-logo, .column-mntn {
+    display: inline-block;
+    margin: 5rem;
+}
+
+h3 {
+    color: #FBD784;
+}
+
+.column-logo :last-child {
+    margin-top: 5rem;
+    color: #333;
+}
+
+
